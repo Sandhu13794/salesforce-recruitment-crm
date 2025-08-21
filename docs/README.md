@@ -5,3 +5,4 @@ Add screenshots here (objects, list views, flow canvas, and dashboard). Keep sen
 <img width="1920" height="913" alt="job-opening-field" src="https://github.com/user-attachments/assets/4b2a6fbb-28d4-4917-9ab0-e4a2aa4dacb8" />
 <img width="1920" height="913" alt="candidate-fields" src="https://github.com/user-attachments/assets/9a573425-f7b9-44f3-be95-409b8aaa8a8f" />
 <img width="1920" height="913" alt="application-fields" src="https://github.com/user-attachments/assets/d0388514-4383-4c8f-a15a-ad42a41bde74" />
+<img width="1920" height="916" alt="flow-auto-assign" src="https://github.com/user-attachments/assets/c7b16be4-55cb-442c-9a5f-6d936708eaae" />
