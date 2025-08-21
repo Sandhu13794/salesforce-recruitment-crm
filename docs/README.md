@@ -6,3 +6,6 @@ Add screenshots here (objects, list views, flow canvas, and dashboard). Keep sen
 <img width="1920" height="913" alt="candidate-fields" src="https://github.com/user-attachments/assets/9a573425-f7b9-44f3-be95-409b8aaa8a8f" />
 <img width="1920" height="913" alt="application-fields" src="https://github.com/user-attachments/assets/d0388514-4383-4c8f-a15a-ad42a41bde74" />
 <img width="1920" height="916" alt="flow-auto-assign" src="https://github.com/user-attachments/assets/c7b16be4-55cb-442c-9a5f-6d936708eaae" />
+<img width="1920" height="916" alt="flow-auto-assign-queue" src="https://github.com/user-attachments/assets/6d78ed90-7fc0-463a-b2cf-495ccc28d0ba" />
+<img width="1920" height="913" alt="app-nav-tabs" src="https://github.com/user-attachments/assets/99b8e9ff-3862-45de-9bbf-6cab85b67d86" />
+<img width="1920" height="913" alt="application-owner" src="https://github.com/user-attachments/assets/31796fd6-6c51-45f5-a4c3-bdd048a24d82" />
