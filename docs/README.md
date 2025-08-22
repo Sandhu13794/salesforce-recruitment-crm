@@ -12,3 +12,4 @@ Add screenshots here (objects, list views, flow canvas, and dashboard). Keep sen
 <img width="1920" height="913" alt="import-candidates" src="https://github.com/user-attachments/assets/1fbd3452-6093-4e91-90cc-f80e0ab9cbd7" />
 <img width="1920" height="967" alt="import-job-openings" src="https://github.com/user-attachments/assets/bbbd4bab-f5a9-4498-ac7a-9445b79fc716" />
 <img width="1920" height="977" alt="import-applications" src="https://github.com/user-attachments/assets/2136908b-3ddc-48a6-a9c6-2c13234a8962" />
+<img width="1903" height="908" alt="applications-list" src="https://github.com/user-attachments/assets/b0dc87aa-bc02-4ab3-91ec-35317c67f13c" />
