@@ -9,3 +9,6 @@ Add screenshots here (objects, list views, flow canvas, and dashboard). Keep sen
 <img width="1920" height="916" alt="flow-auto-assign-queue" src="https://github.com/user-attachments/assets/6d78ed90-7fc0-463a-b2cf-495ccc28d0ba" />
 <img width="1920" height="913" alt="app-nav-tabs" src="https://github.com/user-attachments/assets/99b8e9ff-3862-45de-9bbf-6cab85b67d86" />
 <img width="1920" height="913" alt="application-owner" src="https://github.com/user-attachments/assets/31796fd6-6c51-45f5-a4c3-bdd048a24d82" />
+<img width="1920" height="913" alt="import-candidates" src="https://github.com/user-attachments/assets/1fbd3452-6093-4e91-90cc-f80e0ab9cbd7" />
+<img width="1920" height="967" alt="import-job-openings" src="https://github.com/user-attachments/assets/bbbd4bab-f5a9-4498-ac7a-9445b79fc716" />
+<img width="1920" height="977" alt="import-applications" src="https://github.com/user-attachments/assets/2136908b-3ddc-48a6-a9c6-2c13234a8962" />
