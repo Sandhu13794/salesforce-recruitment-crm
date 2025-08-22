@@ -26,16 +26,13 @@ README.md -> this file
 4. Take screenshots and drop them into `/docs`.
 5. (Optional) Export your Flow and place it in `/flows`.
 
-## Project Summary (copy for LinkedIn/Portfolio)
+## Project Summary
 **Problem:** Hiring activity lived in spreadsheets, creating delays and no visibility.  
 **Solution:** Built a Recruitment CRM in Salesforce with custom objects (Job Opening, Candidate, Application), an auto-assignment Flow, and KPI dashboards.  
 **Outcome:** Reduced manual work, clear ownership, and real-time insights for managers.
 
 ## Screenshots
-Place your images in `/docs` and reference them here, e.g.:
-- `docs/app-launcher.png`
-- `docs/flow-auto-assign.png`
-- `docs/dashboard-recruitment-kpis.png`
+-for Screenshots please refer doc folder.
 
 ## Credits
 Created by **Sukhvinder Singh Sandhu** — Salesforce Certified Administrator (Berlin).
